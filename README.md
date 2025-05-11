@@ -2,7 +2,7 @@
 
 # 📊 Project Presentation
 
-You can view the project presentation here:  
+You can view the project presentation made by my friend and who we participated in Hackathon with here:  
 [➡️ View on Google Drive](https://drive.google.com/drive/folders/1NEsrLmmiVfk5lY2MIW05IJMtqDfj-VLY?usp=drive_link)
 
 ---
